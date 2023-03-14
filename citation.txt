@@ -1,0 +1,9 @@
+@article{REPO-004,
+    author = "Song, Siyang and Jaiswal, Shashank and Shen, Linlin and Valstar, Michel",
+    journal = "IEEE Transactions on Affective Computing",
+    number = "2",
+    pages = "829--844",
+    title = "{Spectral Representation of Behaviour Primitives for Depression Analysis}",
+    volume = "13",
+    year = "2020"
+}
